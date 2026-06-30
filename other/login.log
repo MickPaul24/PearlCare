@@ -1,0 +1,654 @@
+2026-05-05 22:17:59 - POST received: email=admin@kampalaskin.ug, role=admin2026-05-05 22:19:43 - POST received: email=admin@kampalaskin.ug, role=admin2026-05-05 22:26:42 - POST received: email=admin@kampalaskin.ug, role=admin2026-05-05 22:31:06 - POST received: email=sarah@kampalaskin.ug, role=doctor2026-05-05 22:36:45 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:37:18 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:37:40 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:43:56 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:44:49 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:46:53 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:46:53 - Password verification failed for user: admin@kampalaskin.ug
+2026-05-05 22:46:53 - Expected hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+2026-05-05 22:47:03 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:47:03 - Password verification failed for user: admin@kampalaskin.ug
+2026-05-05 22:47:03 - Expected hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+2026-05-05 22:47:31 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:47:31 - Password verification failed for user: admin@kampalaskin.ug
+2026-05-05 22:47:31 - Expected hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+2026-05-05 22:47:56 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:47:56 - Password verification failed for user: admin@kampalaskin.ug
+2026-05-05 22:47:56 - Expected hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+2026-05-05 22:48:14 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-05 22:48:14 - Password verification failed for user: sarah@kampalaskin.ug
+2026-05-05 22:48:14 - Expected hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+2026-05-05 22:53:45 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-05 22:53:45 - Login successful for user: sarah@kampalaskin.ug
+2026-05-05 22:53:45 - Session user_id set to: 2
+2026-05-05 22:53:45 - Session data: {"id":2,"full_name":"Dr. Sarah K.","email":"sarah@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 22:55:28 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:55:28 - Login successful for user: admin@kampalaskin.ug
+2026-05-05 22:55:28 - Session user_id set to: 1
+2026-05-05 22:55:28 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 22:56:32 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 22:56:32 - Login successful for user: admin@kampalaskin.ug
+2026-05-05 22:56:32 - Session user_id set to: 1
+2026-05-05 22:56:32 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 22:59:15 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-05 22:59:15 - Login successful for user: sarah@kampalaskin.ug
+2026-05-05 22:59:15 - Session user_id set to: 2
+2026-05-05 22:59:15 - Session data: {"id":2,"full_name":"Dr. Sarah K.","email":"sarah@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:03:11 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 23:03:11 - Login successful for user: admin@kampalaskin.ug
+2026-05-05 23:03:11 - Session user_id set to: 1
+2026-05-05 23:03:11 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:10:31 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 23:10:31 - Login successful for user: admin@kampalaskin.ug
+2026-05-05 23:10:31 - Session user_id set to: 1
+2026-05-05 23:10:31 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:24:43 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 23:24:43 - Login successful for user: admin@kampalaskin.ug
+2026-05-05 23:24:43 - Session user_id set to: 1
+2026-05-05 23:24:43 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:45:56 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-05 23:45:56 - Login successful for user: sarah@kampalaskin.ug
+2026-05-05 23:45:56 - Session user_id set to: 2
+2026-05-05 23:45:56 - Session data: {"id":2,"full_name":"Dr. Sarah K.","email":"sarah@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:46:33 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 23:46:33 - Login successful for user: admin@kampalaskin.ug
+2026-05-05 23:46:33 - Session user_id set to: 1
+2026-05-05 23:46:33 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:47:29 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-05 23:47:29 - Login successful for user: sarah@kampalaskin.ug
+2026-05-05 23:47:29 - Session user_id set to: 2
+2026-05-05 23:47:29 - Session data: {"id":2,"full_name":"Dr. Sarah K.","email":"sarah@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:50:09 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 23:50:10 - Login successful for user: admin@kampalaskin.ug
+2026-05-05 23:50:10 - Session user_id set to: 1
+2026-05-05 23:50:10 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:50:53 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-05 23:50:54 - Login successful for user: sarah@kampalaskin.ug
+2026-05-05 23:50:54 - Session user_id set to: 2
+2026-05-05 23:50:54 - Session data: {"id":2,"full_name":"Dr. Sarah K.","email":"sarah@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:51:14 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 23:51:14 - Login successful for user: admin@kampalaskin.ug
+2026-05-05 23:51:14 - Session user_id set to: 1
+2026-05-05 23:51:14 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:53:04 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-05 23:53:04 - Login successful for user: sarah@kampalaskin.ug
+2026-05-05 23:53:04 - Session user_id set to: 2
+2026-05-05 23:53:04 - Session data: {"id":2,"full_name":"Dr. Sarah K.","email":"sarah@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:53:38 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-05 23:53:39 - Login successful for user: sarah@kampalaskin.ug
+2026-05-05 23:53:39 - Session user_id set to: 2
+2026-05-05 23:53:39 - Session data: {"id":2,"full_name":"Dr. Sarah K.","email":"sarah@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-05 23:54:03 - POST received: email=admin@kampalaskin.ug, role=doctor
+2026-05-05 23:54:03 - User not found: email=admin@kampalaskin.ug, role=doctor
+2026-05-05 23:54:17 - POST received: email=admin@kampalaskin.ug, role=nurse
+2026-05-05 23:54:17 - User not found: email=admin@kampalaskin.ug, role=nurse
+2026-05-05 23:54:26 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-05 23:54:26 - Login successful for user: admin@kampalaskin.ug
+2026-05-05 23:54:26 - Session user_id set to: 1
+2026-05-05 23:54:26 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 00:15:31 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-06 00:15:31 - Login successful for user: sarah@kampalaskin.ug
+2026-05-06 00:15:31 - Session user_id set to: 2
+2026-05-06 00:15:31 - Session data: {"id":2,"full_name":"Dr. Sarah K.","email":"sarah@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 00:20:49 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-06 00:20:49 - Login successful for user: admin@kampalaskin.ug
+2026-05-06 00:20:49 - Session user_id set to: 1
+2026-05-06 00:20:49 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 09:08:24 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-06 09:08:24 - Login successful for user: admin@kampalaskin.ug
+2026-05-06 09:08:24 - Session user_id set to: 1
+2026-05-06 09:08:24 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 09:09:39 - POST received: email=mickalexan24@gmail.com, role=doctor
+2026-05-06 09:09:39 - Login successful for user: mickalexan24@gmail.com
+2026-05-06 09:09:39 - Session user_id set to: 5
+2026-05-06 09:09:39 - Session data: {"id":5,"full_name":"MickPaul Kuteesa","email":"mickalexan24@gmail.com","password_hash":"$2y$10$RIwrSZPw\/kHMyWbFHS0.WeFOyr\/hQuFUsr5Zoha1SKsirlJoALL3S","role":"doctor","is_active":1,"created_at":"2026-05-06 10:09:13"}
+2026-05-06 09:10:11 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-06 09:10:11 - Login successful for user: admin@kampalaskin.ug
+2026-05-06 09:10:11 - Session user_id set to: 1
+2026-05-06 09:10:11 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 09:11:05 - POST received: email=mickalexan24@gmail.com, role=doctor
+2026-05-06 09:11:05 - Login successful for user: mickalexan24@gmail.com
+2026-05-06 09:11:05 - Session user_id set to: 5
+2026-05-06 09:11:05 - Session data: {"id":5,"full_name":"MickPaul Kuteesa","email":"mickalexan24@gmail.com","password_hash":"$2y$10$RIwrSZPw\/kHMyWbFHS0.WeFOyr\/hQuFUsr5Zoha1SKsirlJoALL3S","role":"doctor","is_active":1,"created_at":"2026-05-06 10:09:13"}
+2026-05-06 09:11:27 - POST received: email=mickalexan24@gmail.com, role=doctor
+2026-05-06 09:11:28 - Login successful for user: mickalexan24@gmail.com
+2026-05-06 09:11:28 - Session user_id set to: 5
+2026-05-06 09:11:28 - Session data: {"id":5,"full_name":"MickPaul Kuteesa","email":"mickalexan24@gmail.com","password_hash":"$2y$10$RIwrSZPw\/kHMyWbFHS0.WeFOyr\/hQuFUsr5Zoha1SKsirlJoALL3S","role":"doctor","is_active":1,"created_at":"2026-05-06 10:09:13"}
+2026-05-06 11:56:31 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-06 11:56:32 - Login successful for user: admin@kampalaskin.ug
+2026-05-06 11:56:32 - Session user_id set to: 1
+2026-05-06 11:56:32 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 13:44:37 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-06 13:44:37 - Login successful for user: admin@kampalaskin.ug
+2026-05-06 13:44:37 - Session user_id set to: 1
+2026-05-06 13:44:37 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 13:49:43 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-06 13:49:43 - Login successful for user: admin@kampalaskin.ug
+2026-05-06 13:49:43 - Session user_id set to: 1
+2026-05-06 13:49:43 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 15:32:33 - POST received: email=sarah@kampalaskin.ug, role=doctor
+2026-05-06 15:32:33 - Login successful for user: sarah@kampalaskin.ug
+2026-05-06 15:32:33 - Session user_id set to: 2
+2026-05-06 15:32:33 - Session data: {"id":2,"full_name":"Dr. Sarah K.","email":"sarah@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 15:33:08 - POST received: email=mickalexan24@gmail.com, role=doctor
+2026-05-06 15:33:08 - Login successful for user: mickalexan24@gmail.com
+2026-05-06 15:33:08 - Session user_id set to: 5
+2026-05-06 15:33:08 - Session data: {"id":5,"full_name":"MickPaul Kuteesa","email":"mickalexan24@gmail.com","password_hash":"$2y$10$RIwrSZPw\/kHMyWbFHS0.WeFOyr\/hQuFUsr5Zoha1SKsirlJoALL3S","role":"doctor","is_active":1,"created_at":"2026-05-06 10:09:13"}
+2026-05-06 15:33:26 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-06 15:33:26 - Login successful for user: admin@kampalaskin.ug
+2026-05-06 15:33:26 - Session user_id set to: 1
+2026-05-06 15:33:26 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 15:49:22 - Patient updated: ID=10, Name=MickPaul Kuteesa L
+2026-05-06 15:49:56 - Patient updated: ID=10, Name=MickPaul Kuteesa L
+2026-05-06 15:50:08 - Patient updated: ID=10, Name=MickPaul Kuteesa L
+2026-05-06 16:05:59 - Patient updated: ID=11, Name=MickPaul Kuteesa L
+2026-05-06 22:09:13 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-06 22:09:14 - Login successful for user: admin@kampalaskin.ug
+2026-05-06 22:09:14 - Session user_id set to: 1
+2026-05-06 22:09:14 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-06 22:27:41 - Patient updated: ID=11, Name=MickPaul Kuteesa L
+2026-05-06 22:28:03 - Patient updated: ID=11, Name=MickPaul Kuteesa
+2026-05-06 22:28:30 - Patient updated: ID=10, Name=MickPaul Kuteesa L
+2026-05-06 22:37:20 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-06 22:37:21 - Login successful for user: admin@kampalaskin.ug
+2026-05-06 22:37:21 - Session user_id set to: 1
+2026-05-06 22:37:21 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-07 11:41:20 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-07 11:41:20 - Login successful for user: admin@kampalaskin.ug
+2026-05-07 11:41:20 - Session user_id set to: 1
+2026-05-07 11:41:20 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-07 11:45:59 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-07 11:45:59 - Login successful for user: admin@kampalaskin.ug
+2026-05-07 11:45:59 - Session user_id set to: 1
+2026-05-07 11:45:59 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-07 11:47:57 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-07 11:47:57 - Login successful for user: admin@kampalaskin.ug
+2026-05-07 11:47:57 - Session user_id set to: 1
+2026-05-07 11:47:57 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-07 11:53:32 - Patient updated: ID=11, Name=MickPaul Kuteesa
+2026-05-07 15:30:01 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-07 15:30:01 - User not found: email=mickalexan24@gmail.com, role=records
+2026-05-07 15:30:08 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-07 15:30:08 - User not found: email=mickalexan24@gmail.com, role=records
+2026-05-07 15:30:29 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-07 15:30:30 - Login successful for user: admin@kampalaskin.ug
+2026-05-07 15:30:30 - Session user_id set to: 1
+2026-05-07 15:30:30 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-07 15:39:13 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-07 15:39:14 - Login successful for user: mickalexan24@gmail.com
+2026-05-07 15:39:14 - Session user_id set to: 6
+2026-05-07 15:39:14 - Session data: {"id":6,"full_name":"MickPaul Kuteesa L","email":"mickalexan24@gmail.com","password_hash":"$2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG","role":"records","is_active":1,"created_at":"2026-05-07 16:38:50"}
+2026-05-07 15:41:24 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-07 15:41:24 - Password verification failed for user: admin@kampalaskin.ug
+2026-05-07 15:41:24 - Expected hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+2026-05-07 15:41:29 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-07 15:41:29 - Login successful for user: admin@kampalaskin.ug
+2026-05-07 15:41:29 - Session user_id set to: 1
+2026-05-07 15:41:29 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-07 15:42:36 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-07 15:42:36 - Login successful for user: mickalexan24@gmail.com
+2026-05-07 15:42:36 - Session user_id set to: 6
+2026-05-07 15:42:36 - Session data: {"id":6,"full_name":"MickPaul Kuteesa L","email":"mickalexan24@gmail.com","password_hash":"$2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG","role":"records","is_active":1,"created_at":"2026-05-07 16:38:50"}
+2026-05-07 15:44:21 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-07 15:44:21 - Login successful for user: admin@kampalaskin.ug
+2026-05-07 15:44:21 - Session user_id set to: 1
+2026-05-07 15:44:21 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-07 15:48:04 - Patient updated: ID=9, Name=Sarafina Nansereko
+2026-05-07 15:50:18 - Patient updated: ID=12, Name=Aisha Namukwaya
+2026-05-07 15:50:43 - Patient updated: ID=12, Name=Aisha Namukwaya
+2026-05-07 15:50:54 - Patient updated: ID=12, Name=Aisha Namukwaya
+2026-05-07 15:53:09 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-07 15:53:09 - Password verification failed for user: mickalexan24@gmail.com
+2026-05-07 15:53:09 - Expected hash: $2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG
+2026-05-07 15:53:16 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-07 15:53:16 - Login successful for user: mickalexan24@gmail.com
+2026-05-07 15:53:16 - Session user_id set to: 6
+2026-05-07 15:53:16 - Session data: {"id":6,"full_name":"MickPaul Kuteesa L","email":"mickalexan24@gmail.com","password_hash":"$2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG","role":"records","is_active":1,"created_at":"2026-05-07 16:38:50"}
+2026-05-07 15:54:10 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-07 15:54:10 - Login successful for user: admin@kampalaskin.ug
+2026-05-07 15:54:10 - Session user_id set to: 1
+2026-05-07 15:54:10 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-07 18:08:08 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-07 18:08:08 - Login successful for user: admin@kampalaskin.ug
+2026-05-07 18:08:08 - Session user_id set to: 1
+2026-05-07 18:08:08 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-08 11:04:44 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-08 11:04:44 - Login successful for user: admin@kampalaskin.ug
+2026-05-08 11:04:44 - Session user_id set to: 1
+2026-05-08 11:04:44 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-08 11:10:19 - Patient updated: ID=12, Name=Aisha Namukwaya
+2026-05-10 10:10:30 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 10:10:30 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 10:10:30 - Session user_id set to: 1
+2026-05-10 10:10:30 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 10:50:47 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 10:50:47 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 10:50:47 - Session user_id set to: 1
+2026-05-10 10:50:47 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 11:04:54 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 11:04:54 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 11:04:54 - Session user_id set to: 1
+2026-05-10 11:04:54 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 15:12:34 - Patient updated: ID=12, Name=Aisha Namukwaya
+2026-05-10 19:46:59 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 19:46:59 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 19:46:59 - Session user_id set to: 1
+2026-05-10 19:46:59 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 19:47:18 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 19:47:18 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 19:47:18 - Session user_id set to: 1
+2026-05-10 19:47:18 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 19:48:57 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 19:48:57 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 19:48:57 - Session user_id set to: 1
+2026-05-10 19:48:57 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 19:51:29 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 19:51:29 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 19:51:29 - Session user_id set to: 1
+2026-05-10 19:51:29 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 19:55:07 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 19:55:08 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 19:55:08 - Session user_id set to: 1
+2026-05-10 19:55:08 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 20:00:14 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 20:00:14 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 20:00:14 - Session user_id set to: 1
+2026-05-10 20:00:14 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 20:05:38 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 20:05:38 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 20:05:38 - Session user_id set to: 1
+2026-05-10 20:05:38 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 20:25:35 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 20:25:35 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 20:25:35 - Session user_id set to: 1
+2026-05-10 20:25:35 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 20:35:01 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 20:35:01 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 20:35:01 - Session user_id set to: 1
+2026-05-10 20:35:01 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 20:41:53 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-10 20:41:53 - Password verification failed for user: mickalexan24@gmail.com
+2026-05-10 20:41:53 - Expected hash: $2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG
+2026-05-10 20:42:01 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-10 20:42:01 - Password verification failed for user: mickalexan24@gmail.com
+2026-05-10 20:42:01 - Expected hash: $2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG
+2026-05-10 20:42:06 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-10 20:42:07 - Login successful for user: mickalexan24@gmail.com
+2026-05-10 20:42:07 - Session user_id set to: 6
+2026-05-10 20:42:07 - Session data: {"id":6,"full_name":"MickPaul Kuteesa","email":"mickalexan24@gmail.com","password_hash":"$2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG","role":"records","is_active":1,"created_at":"2026-05-07 16:38:50"}
+2026-05-10 20:45:38 - Patient updated: ID=10, Name=MickPaul L
+2026-05-10 20:46:31 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 20:46:31 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 20:46:31 - Session user_id set to: 1
+2026-05-10 20:46:31 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 20:47:44 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 20:47:44 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 20:47:44 - Session user_id set to: 1
+2026-05-10 20:47:44 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 23:51:29 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-10 23:51:30 - Login successful for user: admin@kampalaskin.ug
+2026-05-10 23:51:30 - Session user_id set to: 1
+2026-05-10 23:51:30 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-10 23:53:05 - Patient updated: ID=10, Name=MickPaul L
+2026-05-10 23:56:21 - Patient updated: ID=12, Name=Aisha Namukwaya
+2026-05-10 23:58:00 - Patient updated: ID=17, Name=Musinguzi Harvey
+2026-05-10 23:58:27 - Patient updated: ID=17, Name=Musinguzi Harvey
+2026-05-10 23:58:37 - Patient updated: ID=17, Name=Musinguzi Harvey
+2026-05-11 14:32:51 - Patient updated: ID=18, Name=Sibaaka Israel
+2026-05-11 17:27:13 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-11 17:27:14 - Login successful for user: admin@kampalaskin.ug
+2026-05-11 17:27:14 - Session user_id set to: 1
+2026-05-11 17:27:14 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-11 17:28:09 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-11 17:28:10 - Login successful for user: mickalexan24@gmail.com
+2026-05-11 17:28:10 - Session user_id set to: 6
+2026-05-11 17:28:10 - Session data: {"id":6,"full_name":"MickPaul Kuteesa","email":"mickalexan24@gmail.com","password_hash":"$2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG","role":"records","is_active":1,"created_at":"2026-05-07 16:38:50"}
+2026-05-11 17:29:02 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-11 17:29:02 - Login successful for user: admin@kampalaskin.ug
+2026-05-11 17:29:02 - Session user_id set to: 1
+2026-05-11 17:29:02 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-12 08:03:45 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-12 08:03:45 - Login successful for user: admin@kampalaskin.ug
+2026-05-12 08:03:45 - Session user_id set to: 1
+2026-05-12 08:03:45 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-12 08:05:18 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-12 08:05:18 - Password verification failed for user: admin@kampalaskin.ug
+2026-05-12 08:05:18 - Expected hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+2026-05-12 08:05:25 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-12 08:05:25 - Login successful for user: admin@kampalaskin.ug
+2026-05-12 08:05:25 - Session user_id set to: 1
+2026-05-12 08:05:25 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-12 20:54:50 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-12 20:54:50 - Login successful for user: admin@kampalaskin.ug
+2026-05-12 20:54:50 - Session user_id set to: 1
+2026-05-12 20:54:50 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-13 09:37:42 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-13 09:37:42 - Login successful for user: admin@kampalaskin.ug
+2026-05-13 09:37:42 - Session user_id set to: 1
+2026-05-13 09:37:42 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-13 10:21:15 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-13 10:21:16 - Login successful for user: admin@kampalaskin.ug
+2026-05-13 10:21:16 - Session user_id set to: 1
+2026-05-13 10:21:16 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-13 12:19:04 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-13 12:19:04 - Login successful for user: admin@kampalaskin.ug
+2026-05-13 12:19:04 - Session user_id set to: 1
+2026-05-13 12:19:04 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-13 12:21:34 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-13 12:21:34 - Login successful for user: mickalexan24@gmail.com
+2026-05-13 12:21:34 - Session user_id set to: 6
+2026-05-13 12:21:34 - Session data: {"id":6,"full_name":"MickPaul Kuteesa","email":"mickalexan24@gmail.com","password_hash":"$2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG","role":"records","is_active":1,"created_at":"2026-05-07 16:38:50"}
+2026-05-13 12:22:59 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-13 12:22:59 - Login successful for user: admin@kampalaskin.ug
+2026-05-13 12:22:59 - Session user_id set to: 1
+2026-05-13 12:22:59 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-13 12:25:10 - POST received: email=juliet@gmail.com, role=nurse
+2026-05-13 12:25:10 - Login successful for user: juliet@gmail.com
+2026-05-13 12:25:10 - Session user_id set to: 7
+2026-05-13 12:25:10 - Session data: {"id":7,"full_name":"Kebirungi Juliet","email":"juliet@gmail.com","password_hash":"$2y$10$CCMEVK9Ij46BvRQJdvrPUuS6srlmR\/WlaEiqvQD2DXMkbBdMB767C","role":"nurse","is_active":1,"created_at":"2026-05-13 13:23:52"}
+2026-05-13 12:25:42 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-13 12:25:43 - Login successful for user: admin@kampalaskin.ug
+2026-05-13 12:25:43 - Session user_id set to: 1
+2026-05-13 12:25:43 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-13 12:26:18 - POST received: email=juliet@gmail.com, role=nurse
+2026-05-13 12:26:18 - Password verification failed for user: juliet@gmail.com
+2026-05-13 12:26:18 - Expected hash: $2y$10$qz7QkrPyKT1z8WYzlJZX..p3Gmx839JnVozvBp/rJ9d7V4n4CPrw6
+2026-05-13 12:26:24 - POST received: email=juliet@gmail.com, role=nurse
+2026-05-13 12:26:24 - Login successful for user: juliet@gmail.com
+2026-05-13 12:26:24 - Session user_id set to: 7
+2026-05-13 12:26:24 - Session data: {"id":7,"full_name":"Kebirungi Juliet","email":"juliet@gmail.com","password_hash":"$2y$10$qz7QkrPyKT1z8WYzlJZX..p3Gmx839JnVozvBp\/rJ9d7V4n4CPrw6","role":"nurse","is_active":1,"created_at":"2026-05-13 13:23:52"}
+2026-05-13 12:26:41 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-13 12:26:41 - Login successful for user: admin@kampalaskin.ug
+2026-05-13 12:26:41 - Session user_id set to: 1
+2026-05-13 12:26:41 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-13 12:28:23 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-13 12:28:23 - Login successful for user: admin@kampalaskin.ug
+2026-05-13 12:28:23 - Session user_id set to: 1
+2026-05-13 12:28:23 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-13 12:28:54 - POST received: email=juliet@gmail.com, role=admin
+2026-05-13 12:28:54 - User not found: email=juliet@gmail.com, role=admin
+2026-05-13 12:29:01 - POST received: email=juliet@gmail.com, role=admin
+2026-05-13 12:29:01 - User not found: email=juliet@gmail.com, role=admin
+2026-05-13 12:29:06 - POST received: email=juliet@gmail.com, role=admin
+2026-05-13 12:29:06 - User not found: email=juliet@gmail.com, role=admin
+2026-05-13 12:29:16 - POST received: email=juliet@gmail.com, role=nurse
+2026-05-13 12:29:16 - Login successful for user: juliet@gmail.com
+2026-05-13 12:29:16 - Session user_id set to: 7
+2026-05-13 12:29:16 - Session data: {"id":7,"full_name":"Kebirungi Juliet","email":"juliet@gmail.com","password_hash":"$2y$10$qz7QkrPyKT1z8WYzlJZX..p3Gmx839JnVozvBp\/rJ9d7V4n4CPrw6","role":"nurse","is_active":1,"created_at":"2026-05-13 13:23:52"}
+2026-05-13 15:44:55 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-13 15:44:56 - Login successful for user: admin@kampalaskin.ug
+2026-05-13 15:44:56 - Session user_id set to: 1
+2026-05-13 15:44:56 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-14 20:44:41 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-14 20:44:41 - Login successful for user: admin@kampalaskin.ug
+2026-05-14 20:44:41 - Session user_id set to: 1
+2026-05-14 20:44:41 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-14 20:46:10 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-14 20:46:11 - Login successful for user: admin@kampalaskin.ug
+2026-05-14 20:46:11 - Session user_id set to: 1
+2026-05-14 20:46:11 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-14 20:56:49 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-14 20:56:49 - Login successful for user: admin@kampalaskin.ug
+2026-05-14 20:56:49 - Session user_id set to: 1
+2026-05-14 20:56:49 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-14 22:12:15 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-14 22:12:15 - Password verification failed for user: admin@kampalaskin.ug
+2026-05-14 22:12:15 - Expected hash: $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi
+2026-05-14 22:12:22 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-14 22:12:22 - Login successful for user: admin@kampalaskin.ug
+2026-05-14 22:12:22 - Session user_id set to: 1
+2026-05-14 22:12:22 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-15 08:49:30 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-15 08:49:31 - Login successful for user: admin@kampalaskin.ug
+2026-05-15 08:49:31 - Session user_id set to: 1
+2026-05-15 08:49:31 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-15 10:02:30 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-15 10:02:30 - Login successful for user: admin@kampalaskin.ug
+2026-05-15 10:02:30 - Session user_id set to: 1
+2026-05-15 10:02:30 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-15 15:56:35 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-15 15:56:36 - Login successful for user: admin@kampalaskin.ug
+2026-05-15 15:56:36 - Session user_id set to: 1
+2026-05-15 15:56:36 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-16 15:48:41 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-16 15:49:56 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-16 15:50:29 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-16 15:51:10 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-16 15:51:10 - Login successful for user: admin@kampalaskin.ug
+2026-05-16 15:51:10 - Session user_id set to: 1
+2026-05-16 15:51:10 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-16 16:29:17 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-16 16:29:17 - Login successful for user: admin@kampalaskin.ug
+2026-05-16 16:29:17 - Session user_id set to: 1
+2026-05-16 16:29:17 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-16 16:29:47 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-16 16:29:47 - Login successful for user: admin@kampalaskin.ug
+2026-05-16 16:29:47 - Session user_id set to: 1
+2026-05-16 16:29:47 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-18 14:52:36 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-18 14:53:13 - Patient updated: ID=19, Name=Ocen Jude
+2026-05-18 16:38:57 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-18 16:38:57 - Login successful for user: admin@kampalaskin.ug
+2026-05-18 16:38:57 - Session user_id set to: 1
+2026-05-18 16:38:57 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-18 16:40:10 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-18 16:40:11 - Login successful for user: admin@kampalaskin.ug
+2026-05-18 16:40:11 - Session user_id set to: 1
+2026-05-18 16:40:11 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-19 12:16:07 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-19 12:16:08 - Login successful for user: admin@kampalaskin.ug
+2026-05-19 12:16:08 - Session user_id set to: 1
+2026-05-19 12:16:08 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-19 13:02:38 - POST received: email=mickalexan24@gmail.com, role=receptionist
+2026-05-19 13:02:39 - User not found: email=mickalexan24@gmail.com, role=receptionist
+2026-05-19 13:02:46 - POST received: email=mickalexan24@gmail.com, role=receptionist
+2026-05-19 13:02:46 - User not found: email=mickalexan24@gmail.com, role=receptionist
+2026-05-19 13:02:54 - POST received: email=mickalexan24@gmail.com, role=receptionist
+2026-05-19 13:02:55 - User not found: email=mickalexan24@gmail.com, role=receptionist
+2026-05-19 13:03:03 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-19 13:03:04 - Password verification failed for user: mickalexan24@gmail.com
+2026-05-19 13:03:04 - Expected hash: $2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG
+2026-05-19 13:03:14 - POST received: email=password123mickalexan24@gmail.com, role=records
+2026-05-19 13:03:14 - User not found: email=password123mickalexan24@gmail.com, role=records
+2026-05-19 13:03:25 - POST received: email=mickalexan24@gmail.com, role=records
+2026-05-19 13:03:25 - Login successful for user: mickalexan24@gmail.com
+2026-05-19 13:03:25 - Session user_id set to: 6
+2026-05-19 13:03:25 - Session data: {"id":6,"full_name":"MickPaul Kuteesa","email":"mickalexan24@gmail.com","password_hash":"$2y$10$0vJ31uHo.XAW2Y.RpkNYrOk9ZhfovJKMOF5EiClvrqSrbQTFIJCYG","role":"records","is_active":1,"created_at":"2026-05-07 16:38:50"}
+2026-05-19 13:04:17 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-19 13:04:17 - Login successful for user: admin@kampalaskin.ug
+2026-05-19 13:04:17 - Session user_id set to: 1
+2026-05-19 13:04:17 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-20 13:34:02 - POST received: email=admin@kampalaskin.ug, role=nurse
+2026-05-20 13:34:03 - User not found: email=admin@kampalaskin.ug, role=nurse
+2026-05-20 13:34:44 - POST received: email=admin@kampalaskin.ug, role=nurse
+2026-05-20 13:34:45 - User not found: email=admin@kampalaskin.ug, role=nurse
+2026-05-20 13:35:33 - POST received: email=admin@kampalaskin.ug, role=nurse
+2026-05-20 13:35:33 - User not found: email=admin@kampalaskin.ug, role=nurse
+2026-05-20 13:35:52 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-20 13:35:52 - Login successful for user: admin@kampalaskin.ug
+2026-05-20 13:35:52 - Session user_id set to: 1
+2026-05-20 13:35:52 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-20 23:38:15 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:41:01 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:41:28 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:42:27 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:42:37 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:43:05 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:43:23 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:43:30 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:43:35 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:43:48 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:46:04 - Patient updated: ID=20, Name=Musinguzi Kenneth
+2026-05-20 23:46:33 - Patient updated: ID=17, Name=Musinguzi Harvey
+2026-05-20 23:46:49 - Patient updated: ID=18, Name=Sibaaka Israel
+2026-05-20 23:47:28 - Patient updated: ID=19, Name=Ocen Jude
+2026-05-20 23:47:38 - Patient updated: ID=19, Name=Ocen Jude
+2026-05-20 23:48:02 - Patient updated: ID=14, Name=Santos Biino
+2026-05-21 08:27:35 - New visit recorded: Patient=35, Type=Follow-up Consultation, Date=2026-05-21
+2026-05-21 16:28:12 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-21 16:28:13 - Login successful for user: admin@kampalaskin.ug
+2026-05-21 16:28:13 - Session user_id set to: 1
+2026-05-21 16:28:13 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-21 17:18:55 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-21 17:18:55 - Login successful for user: admin@kampalaskin.ug
+2026-05-21 17:18:55 - Session user_id set to: 1
+2026-05-21 17:18:55 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-23 11:50:18 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-23 11:50:19 - Login successful for user: admin@kampalaskin.ug
+2026-05-23 11:50:19 - Session user_id set to: 1
+2026-05-23 11:50:19 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-25 09:51:33 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-25 09:51:33 - Login successful for user: admin@kampalaskin.ug
+2026-05-25 09:51:33 - Session user_id set to: 1
+2026-05-25 09:51:33 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-25 10:08:40 - POST received: email=mick@kampalaskin.ug, role=doctor
+2026-05-25 10:08:40 - Login successful for user: mick@kampalaskin.ug
+2026-05-25 10:08:40 - Session user_id set to: 2
+2026-05-25 10:08:40 - Session data: {"id":2,"full_name":"Dr. MickPaul","email":"mick@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"doctor","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-25 10:09:05 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-25 10:09:06 - Login successful for user: admin@kampalaskin.ug
+2026-05-25 10:09:06 - Session user_id set to: 1
+2026-05-25 10:09:06 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-25 10:12:04 - New visit recorded: Patient=38, Type=Follow-up Consultation, Date=2026-05-25, Drugs=2
+2026-05-25 10:36:10 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-25 10:36:11 - Login successful for user: admin@kampalaskin.ug
+2026-05-25 10:36:11 - Session user_id set to: 1
+2026-05-25 10:36:11 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-25 11:34:30 - POST received: email=admin@gmail.com, role=admin
+2026-05-25 11:34:31 - User not found: email=admin@gmail.com, role=admin
+2026-05-25 11:34:45 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-25 11:34:45 - Login successful for user: admin@kampalaskin.ug
+2026-05-25 11:34:45 - Session user_id set to: 1
+2026-05-25 11:34:45 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-25 15:05:32 - New visit recorded: Patient=37, Type=Follow-up Consultation, Date=2026-05-25, Drugs=2
+2026-05-25 15:06:20 - New visit recorded: Patient=36, Type=Post-Treatment Review, Date=2026-05-25, Drugs=1
+2026-05-27 08:05:05 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-27 08:05:06 - Login successful for user: admin@kampalaskin.ug
+2026-05-27 08:05:06 - Session user_id set to: 1
+2026-05-27 08:05:06 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-27 08:35:36 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-27 08:35:36 - Login successful for user: admin@kampalaskin.ug
+2026-05-27 08:35:36 - Session user_id set to: 1
+2026-05-27 08:35:36 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-28 14:19:30 - POST received: email=melvin@kampalaskin.ug, role=receptionist
+2026-05-28 14:19:30 - Login successful for user: melvin@kampalaskin.ug
+2026-05-28 14:19:30 - Session user_id set to: 10
+2026-05-28 14:19:30 - Session data: {"id":10,"full_name":"Oketho Melvino","email":"melvin@kampalaskin.ug","password_hash":"$2y$10$JT2dNXxUHlkvODRE\/vpibuoRdfj9j6khllEhKyds\/yY292eoTMRsS","role":"receptionist","is_active":1,"created_at":"2026-05-21 09:42:55"}
+2026-05-28 14:20:40 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-28 14:20:40 - Login successful for user: admin@kampalaskin.ug
+2026-05-28 14:20:40 - Session user_id set to: 1
+2026-05-28 14:20:40 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-28 14:21:22 - POST received: email=melvin@kampalaskin.ug, role=receptionist
+2026-05-28 14:21:22 - Login successful for user: melvin@kampalaskin.ug
+2026-05-28 14:21:22 - Session user_id set to: 10
+2026-05-28 14:21:22 - Session data: {"id":10,"full_name":"Oketho Melvino","email":"melvin@kampalaskin.ug","password_hash":"$2y$10$JT2dNXxUHlkvODRE\/vpibuoRdfj9j6khllEhKyds\/yY292eoTMRsS","role":"receptionist","is_active":1,"created_at":"2026-05-21 09:42:55"}
+2026-05-28 14:21:51 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-28 14:21:51 - Login successful for user: admin@kampalaskin.ug
+2026-05-28 14:21:51 - Session user_id set to: 1
+2026-05-28 14:21:51 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-29 14:19:58 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-29 14:20:00 - Login successful for user: admin@kampalaskin.ug
+2026-05-29 14:20:00 - Session user_id set to: 1
+2026-05-29 14:20:00 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-29 14:20:58 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-29 14:20:58 - Login successful for user: admin@kampalaskin.ug
+2026-05-29 14:20:58 - Session user_id set to: 1
+2026-05-29 14:20:58 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-29 14:22:34 - POST received: email=juliet@gmail.com, role=nurse
+2026-05-29 14:22:35 - User not found: email=juliet@gmail.com, role=nurse
+2026-05-29 14:22:43 - POST received: email=juliet@gmail.com, role=nurse
+2026-05-29 14:22:43 - User not found: email=juliet@gmail.com, role=nurse
+2026-05-29 14:22:49 - POST received: email=juliet@gmail.com, role=nurse
+2026-05-29 14:22:50 - User not found: email=juliet@gmail.com, role=nurse
+2026-05-29 14:23:10 - POST received: email=mickalexan24@gmail.com, role=doctor
+2026-05-29 14:23:10 - User not found: email=mickalexan24@gmail.com, role=doctor
+2026-05-29 14:23:18 - POST received: email=mickalexan24@gmail.com, role=doctor
+2026-05-29 14:23:18 - User not found: email=mickalexan24@gmail.com, role=doctor
+2026-05-29 14:23:30 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-29 14:23:32 - Login successful for user: admin@kampalaskin.ug
+2026-05-29 14:23:32 - Session user_id set to: 1
+2026-05-29 14:23:32 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-29 14:24:19 - POST received: email=juliet@gmail.com, role=nurse
+2026-05-29 14:24:20 - User not found: email=juliet@gmail.com, role=nurse
+2026-05-29 14:24:31 - POST received: email=juliet@kampalaskin.ug, role=nurse
+2026-05-29 14:24:32 - Login successful for user: juliet@kampalaskin.ug
+2026-05-29 14:24:32 - Session user_id set to: 7
+2026-05-29 14:24:32 - Session data: {"id":7,"full_name":"Kebirungi Juliet","email":"juliet@kampalaskin.ug","password_hash":"$2y$10$lstxFdSEiwX97BThJEjfZu.Z6998U\/5Uo2XQnfJhW06wWK6Z7f9SO","role":"nurse","is_active":1,"created_at":"2026-05-13 13:23:52"}
+2026-05-29 14:25:33 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-29 14:25:35 - Login successful for user: admin@kampalaskin.ug
+2026-05-29 14:25:35 - Session user_id set to: 1
+2026-05-29 14:25:35 - Session data: {"id":1,"full_name":"Admin User","email":"admin@kampalaskin.ug","password_hash":"$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi","role":"admin","is_active":1,"created_at":"2026-05-05 10:48:43"}
+2026-05-30 07:52:21 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-30 07:52:21 - Login successful: admin@kampalaskin.ug
+2026-05-30 08:56:56 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-30 08:56:57 - Login successful: admin@kampalaskin.ug
+2026-05-30 21:29:12 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-30 21:29:13 - Login successful: admin@kampalaskin.ug
+2026-05-31 09:25:59 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-31 09:25:59 - Login successful: admin@kampalaskin.ug
+2026-05-31 09:37:25 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-31 09:37:25 - Login successful: admin@kampalaskin.ug
+2026-05-31 10:22:23 - POST received: email=mick@kampalaskin.ug, role=doctor
+2026-05-31 10:22:24 - Login successful: mick@kampalaskin.ug
+2026-05-31 10:23:04 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-31 10:23:05 - Login successful: admin@kampalaskin.ug
+2026-05-31 10:27:19 - POST received: email=juliet@kampalaskin.ug, role=nurse
+2026-05-31 10:27:20 - Login successful: juliet@kampalaskin.ug
+2026-05-31 10:28:06 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-31 10:28:06 - Login successful: admin@kampalaskin.ug
+2026-05-31 13:49:48 - POST received: email=melvin@kampalaskin.ug, role=receptionist
+2026-05-31 13:49:48 - Login successful: melvin@kampalaskin.ug
+2026-05-31 13:50:20 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-31 13:50:21 - Login successful: admin@kampalaskin.ug
+2026-05-31 14:22:25 - POST received: email=melvin@kampalaskin.ug, role=receptionist
+2026-05-31 14:22:25 - Login successful: melvin@kampalaskin.ug
+2026-05-31 14:22:47 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-05-31 14:22:47 - Login successful: admin@kampalaskin.ug
+2026-06-01 14:43:28 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-01 14:43:29 - Login successful: admin@kampalaskin.ug
+2026-06-01 15:55:29 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-01 15:55:30 - Login successful: admin@kampalaskin.ug
+2026-06-01 15:56:02 - POST received: email=melvin@kampalaskin.ug, role=receptionist
+2026-06-01 15:56:02 - Login successful: melvin@kampalaskin.ug
+2026-06-01 15:57:04 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-01 15:57:04 - Login successful: admin@kampalaskin.ug
+2026-06-01 16:16:38 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-01 16:16:39 - Login successful: admin@kampalaskin.ug
+2026-06-02 10:02:32 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-02 10:02:33 - Login successful: admin@kampalaskin.ug
+2026-06-04 09:33:08 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-04 09:33:09 - Login successful: admin@kampalaskin.ug
+2026-06-04 15:59:27 - POST received: email=admin@gmail.com, role=admin
+2026-06-04 15:59:27 - Login failed: admin@gmail.com
+2026-06-04 15:59:31 - POST received: email=dadmin@gmail.com, role=admin
+2026-06-04 15:59:31 - Login failed: dadmin@gmail.com
+2026-06-04 16:00:24 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-04 16:00:24 - Login successful: admin@kampalaskin.ug
+2026-06-04 17:30:45 - POST received: email=melvin@kampalaskin.ug, role=receptionist
+2026-06-04 17:30:45 - Login successful: melvin@kampalaskin.ug
+2026-06-04 17:35:45 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-04 17:35:45 - Login successful: admin@kampalaskin.ug
+2026-06-06 10:36:27 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-06 10:36:27 - Login successful: admin@kampalaskin.ug
+2026-06-06 10:44:41 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-06 10:44:41 - Login successful: admin@kampalaskin.ug
+2026-06-11 07:32:14 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-11 07:32:15 - Login successful: admin@kampalaskin.ug
+2026-06-14 01:27:26 - POST received: email=melvin@kampalaskin.ug, role=receptionist
+2026-06-14 01:27:26 - Login successful: melvin@kampalaskin.ug
+2026-06-14 10:07:06 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-14 10:07:06 - Login successful: admin@kampalaskin.ug
+2026-06-14 10:19:50 - POST received: email=melvin@kampalaskin.ug, role=receptionist
+2026-06-14 10:19:51 - Login successful: melvin@kampalaskin.ug
+2026-06-14 10:22:55 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-14 10:22:55 - Login successful: admin@kampalaskin.ug
+2026-06-14 13:54:26 - POST received: email=mick@kampalaskin.ug, role=doctor
+2026-06-14 13:54:26 - Login successful: mick@kampalaskin.ug
+2026-06-15 14:18:32 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-15 14:18:32 - Login successful: admin@kampalaskin.ug
+2026-06-17 12:55:48 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-17 12:55:48 - Login successful: admin@kampalaskin.ug
+2026-06-17 12:59:00 - POST received: email=jude@kampalaskin.ug, role=records
+2026-06-17 12:59:00 - Login successful: jude@kampalaskin.ug
+2026-06-17 12:59:23 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-06-17 12:59:23 - Login successful: admin@kampalaskin.ug

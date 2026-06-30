@@ -1,0 +1,180 @@
+Table: drug_effectiveness
+Columns:
+id int AI PK 
+drug_id int 
+patient_id int 
+effectiveness enum('Effective','Moderate','Ineffective') 
+result_text text 
+reviewed_at date
+
+Table: drug_prescriptions
+Columns:
+id int AI PK 
+patient_id int 
+drug_id int 
+prescribed_by int 
+dose varchar(120) 
+duration varchar(80) 
+notes text 
+created_at timestamp
+
+Table: drugs
+Columns:
+id int AI PK 
+name varchar(120) 
+category varchar(80) 
+description text 
+stock_qty int 
+reorder_level int 
+unit_price decimal(10,2) 
+is_active tinyint(1) 
+created_at timestamp
+
+
+Table: finances
+Columns:
+id int AI PK 
+invoice_number varchar(120) 
+patient_name varchar(180) 
+amount_paid decimal(12,2) 
+amount_due decimal(12,2) 
+paid tinyint(1) 
+notes text 
+created_at timestamp 
+updated_at timestamp
+
+
+Table: invoices
+Columns:
+id int AI PK 
+patient_id int 
+visit_id int 
+invoice_number varchar(30) 
+total_amount decimal(10,2) 
+paid_amount decimal(10,2) 
+payment_status enum('Unpaid','Partial','Paid','Refunded') 
+payment_method enum('Cash','Mobile Money','Card','Insurance','Other') 
+issued_at timestamp 
+paid_at timestamp
+
+
+Table: lab_tests
+Columns:
+id int AI PK 
+visit_id int 
+patient_id int 
+doctor_id int 
+test_name varchar(120) 
+test_type enum('Dermatitis Patch','Allergen Panel','Skin Biopsy','Hormonal Panel','Drug Concentration','Lipid Profile','Other') 
+result_status enum('Clear','Reactive','In Progress','Pending','Cancelled') 
+result_notes text 
+report_file varchar(255) 
+created_at timestamp
+
+Table: pages
+Columns:
+id int AI PK 
+page_key varchar(64) 
+label varchar(128)
+
+
+
+Table: patient_photos
+Columns:
+id int AI PK 
+patient_id int 
+photo_type enum('before','after','progress','other') 
+file_path varchar(255) 
+caption varchar(255) 
+taken_at date 
+uploaded_by int 
+created_at timestamp
+
+
+Table: patients
+Columns:
+id int AI PK 
+file_number varchar(20) 
+full_name varchar(120) 
+age tinyint UN 
+gender enum('Male','Female','Other') 
+residence varchar(200) 
+phone varchar(30) 
+email varchar(120) 
+blood_type enum('A+','A-','B+','B-','AB+','AB-','O+','O-','Unknown') 
+sulfa_reactive tinyint(1) 
+penicillin_allergy tinyint(1) 
+latex_allergy tinyint(1) 
+other_allergies text 
+status enum('Active','Scheduled','Pending','Archived') 
+registered_by int 
+created_at timestamp 
+updated_at timestamp
+
+
+Table: queue
+Columns:
+id int AI PK 
+visit_id int 
+patient_id int 
+priority enum('Routine','Priority','Urgent') 
+check_in_time datetime 
+start_time datetime 
+end_time datetime 
+queue_status enum('Waiting','In Consultation','Completed','Skipped') 
+assigned_room varchar(30) 
+assigned_doctor int
+
+
+Table: role_permissions
+Columns:
+id int AI PK 
+role varchar(32) 
+page_id int 
+can_view tinyint(1) 
+can_insert tinyint(1) 
+can_update tinyint(1) 
+can_delete tinyint(1) 
+created_at timestamp 
+updated_at timestamp
+
+
+Table: roles
+Columns:
+role_key varchar(32) PK 
+role_name varchar(64) 
+description text
+
+
+Table: settings
+Columns:
+key varchar(80) PK 
+value text 
+updated_at timestamp
+
+Table: users
+Columns:
+id int AI PK 
+full_name varchar(120) 
+email varchar(120) 
+password_hash varchar(255) 
+role varchar(32) 
+is_active tinyint(1) 
+created_at timestamp
+
+Table: visits
+Columns:
+id int AI PK 
+patient_id int 
+doctor_id int 
+visit_date datetime 
+visit_type enum('Consultation','Follow-up','Lab Review','Post-Surgical','Emergency') 
+room varchar(30) 
+chief_complaint text 
+diagnosis text 
+treatment_plan text 
+notes text 
+status enum('Waiting','In Consultation','Completed','Cancelled','No Show') 
+billing_amount decimal(10,2) 
+created_at timestamp
+

@@ -674,3 +674,29 @@
 2026-06-30 19:12:52 - Login successful: admin@kampalaskin.ug
 2026-06-30 19:55:41 - POST received: email=admin@kampalaskin.ug, role=admin
 2026-06-30 19:55:41 - Login successful: admin@kampalaskin.ug
+2026-08-21 00:04:51 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-08-21 00:04:52 - Login failed: admin@kampalaskin.ug
+2026-08-21 00:04:57 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-08-21 00:04:58 - Login successful: admin@kampalaskin.ug
+2026-08-21 00:05:38 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-08-21 00:05:38 - Login successful: admin@kampalaskin.ug
+2026-08-28 00:51:00 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-08-28 00:51:01 - Login failed: admin@kampalaskin.ug
+2026-08-28 00:51:06 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-08-28 00:51:06 - Login successful: admin@kampalaskin.ug
+2026-11-03 09:40:26 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-11-03 09:40:27 - Login failed: admin@kampalaskin.ug
+2026-11-03 09:40:37 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-11-03 09:40:38 - Login failed: admin@kampalaskin.ug
+2026-11-03 09:41:47 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-11-03 09:41:47 - Login failed: admin@kampalaskin.ug
+2026-11-03 09:42:01 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-11-03 09:42:02 - Login failed: admin@kampalaskin.ug
+2026-11-03 09:42:14 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-11-03 09:42:15 - Login failed: admin@kampalaskin.ug
+2026-11-03 09:42:23 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-11-03 09:42:23 - Login failed: admin@kampalaskin.ug
+2026-11-03 09:42:31 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-11-03 09:42:32 - Login failed: admin@kampalaskin.ug
+2026-11-03 09:42:38 - POST received: email=admin@kampalaskin.ug, role=admin
+2026-11-03 09:42:38 - Login successful: admin@kampalaskin.ug
